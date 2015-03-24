@@ -1,0 +1,6 @@
+*.otl
+*/.temp
+*.class
+*/.settings
+*/bin
+.metadata
